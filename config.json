@@ -1,0 +1,14 @@
+
+{
+    "titel": "Opart by TCI",
+    "describtion": "Generiert mit Python",
+    "fields_x": 15,
+    "fields_y": 15,
+    "rectwidth":  100,
+    "rectheight": 100,
+    "circle_r": 50,
+    "semicircle_only":  "yes", 
+    "show_palette": "yes",
+    "make_png": "yes",
+    "make_pdf": "yes"
+}
