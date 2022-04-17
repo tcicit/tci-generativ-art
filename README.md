@@ -14,3 +14,6 @@ The module tci_svg.py and the configuration files must be located in the same di
 
 ## Examples:
 ![This is an image](https://github.com/tcicit/tci-generativ-art/blob/main/output/11b2e32a-b8c8-11ec-ba27-678bbb49af31.png)
+
+----------
+![This is an image](https://github.com/tcicit/tci-generativ-art/blob/main/output/a905c00c-b8c9-11ec-ba27-678bbb49af31.png)
